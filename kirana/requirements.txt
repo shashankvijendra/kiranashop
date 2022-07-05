@@ -1,0 +1,5 @@
+Django==2.2.2
+djangorestframework==3.13.1
+numpy==1.23.0
+pytz==2022.1
+sqlparse==0.4.2
